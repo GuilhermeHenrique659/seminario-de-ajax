@@ -1,0 +1,33 @@
+{
+    "titulo": "Requisição assicrona com AJAX",
+    "conteudo": "Et distinctio quia qui accusamus tempora ut praesentium maxime vel tempora impedit ex esse fugit et illum rerum. Vel rerum commodi non maiores laborum et repellendus veritatis non vero quod. Aut placeat sapiente sed similique delectus et repudiandae nostrum et cumque inventore et culpa assumenda. Vel necessitatibus velit ut rerum quia sit fuga excepturi sed impedit illum sit sapiente reiciendis sed quasi voluptatem qui cumque enim.",
+    "lista": [
+        {
+            "metodo":"new XMLHttpRequest();"
+        },
+        {
+            "metodo":"xhttp.open('http method','url','boleano async: true (assincrono) ou false (sincrono)');"
+        },
+        {
+            "metodo":"setRequestHeader() colocar o header da requisição"
+        },
+        {
+            "metodo":"getResponseHeader() pega o header da resposta"
+        },
+        {
+            "metodo":"send() para o metodo GET e send(dados) para o metodo POST"
+        },
+        {
+            "metodo":"onload define uma função para quando a resquição for recebida ou carregada"
+        },
+        {
+            "metodo":"readyState os status da requisição "
+        },
+        {
+            "metodo":"status retorna o status http da requisição"
+        },
+        {
+            "metodo":"responseText retorna a resposta em forma de string"
+        }
+    ]
+}
